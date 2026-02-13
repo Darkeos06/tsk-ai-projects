@@ -25,7 +25,7 @@ Poligon atış sistemlerinde kurşun deliğinin otomatik tespiti, analizi ve rap
 
 ## 🏆 Özel Not
 
-Bu proje **Kara Kuvvetleri Hizmet Ödülü** (2024) kapsamında değerlendirilmiştir.
+Bu proje **Kara Kuvvetleri Hizmet Ödülü** (2026) kapsamında değerlendirilmiştir.
 
 ---
 

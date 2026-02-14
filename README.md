@@ -14,7 +14,7 @@ paylaşılamamaktadır. Genel bilgiler ve sonuçlar aşağıda sunulmuştur.
 |-------|----------|-------|--------------|
 | [Poligon Anomali Tespiti](docs/poligon-anomaly-detection.md) | Kurşun deliği anomali tespiti ve analizi | 🟡 Devam ediyor | Python, OpenCV, [Hazır Model] |
 | [Envanter AI](docs/inventory-ai.md) | AI destekli askeri envanter takip sistemi | ✅ Tamamlandı | Python, OpenCV, Scikit-learn |
-| [Yemekhane Monitor](docs/cafeteria-monitor.md) | Otomatik hijyen ve kalite denetimi | ✅ Tamamlandı | Python, Görüntü İşleme |
+| [Yemekhane Monitor](docs/cafeteria-monitor.md) | Otomatik İstikak hesaplama sistemi | ✅ Tamamlandı | Python, Görüntü İşleme |
 | [Personel Takip](docs/personnel-tracking.md) | Yüz tanıma ile giriş çıkış takibi | 🟡 Devam ediyor | Python, OpenCV, Face Recognition |
 | [Günlük İştima Analizi](docs/daily-briefing-monitor.md) | Brifing verimlilik ve katılım analizi | ✅ Tamamlandı | Python, Ses İşleme, STT |
 | [Operatör Kontrol](docs/operator-control-system.md) | Askeri operatör performans sistemi | ✅ Tamamlandı | Python, OpenCV, UI |
